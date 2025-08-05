@@ -1,0 +1,35 @@
+
+[
+  {
+    "name": "Pedro",
+    "team": "Flamengo",
+    "home": {
+      "shots": [3, 2, 4, 1, 3],
+      "shots_on_target": [1, 1, 2, 0, 2],
+      "tackles": [0, 1, 0, 0, 1],
+      "fouls": [2, 1, 0, 1, 2]
+    },
+    "away": {
+      "shots": [2, 3, 1, 2, 4],
+      "shots_on_target": [1, 2, 1, 1, 2],
+      "tackles": [1, 0, 2, 1, 0],
+      "fouls": [1, 2, 1, 0, 1]
+    }
+  },
+  {
+    "name": "Dudu",
+    "team": "Palmeiras",
+    "home": {
+      "shots": [1, 1, 2, 0, 1],
+      "shots_on_target": [1, 0, 1, 0, 1],
+      "tackles": [2, 1, 2, 1, 1],
+      "fouls": [0, 1, 0, 1, 1]
+    },
+    "away": {
+      "shots": [2, 2, 1, 1, 1],
+      "shots_on_target": [1, 1, 0, 1, 1],
+      "tackles": [1, 0, 1, 2, 2],
+      "fouls": [1, 1, 2, 1, 1]
+    }
+  }
+]
